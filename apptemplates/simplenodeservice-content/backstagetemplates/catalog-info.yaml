@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/Fmil591/platform-engineering-demo.git
       title: Github Repo
       icon: github
-    - url: https://automatic-invention-69r5gvxp5w9w27xj-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://automatic-invention-69r5gvxp5w9w27xj-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
